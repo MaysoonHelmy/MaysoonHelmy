@@ -1,64 +1,15 @@
-# 👋 Hi there, I’m Maysoon Helmy
+<h1 align="center">Hi 👋, I'm Maysoon Helmy</h1>
+<h3 align="center">Passionate Data Scientist</h3>
 
-I’m a third-year Computer Science student at Ain Shams University, passionate about **Data Science**, **AI**, and building systems that solve real-world problems.  
-I currently serve as the **Vice President of the MSP Tech Club**, where I lead teams, organize tech events, and support student developers in learning and growing together.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maysoonhelmy" alt="maysoonhelmy" /></a> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maysoon helmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maysoon helmy" height="30" width="40" /></a>
+<a href="https://kaggle.com/maysoonhelmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maysoonhelmy" height="30" width="40" /></a>
+</p>
 
-## 🌱 A Bit About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on machine learning projects in healthcare and user behavior prediction  
-- 🌱 I’m learning more about model optimization, MLOps, and data pipelines  
-- 👯 I love collaborating on meaningful, data-driven projects  
-- 💬 Ask me about Python, Scikit-learn, or building quick prototypes with Streamlit  
-- ⚡ Fun fact: I genuinely enjoy debugging — it's like solving a mini puzzle every time!
-
----
-
-## 🛠️ Technologies I Work With
-
-**Languages:** Python, Java, C++, JavaScript  
-**Libraries & Frameworks:** Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, PyWavelets, Streamlit  
-**Other Tools:** SQL, Git, Tableau, Linux, Tkinter, SFML, Qt Creator  
-**Key Areas:** Machine Learning, NLP, Signal Processing, OOP, Data Visualization  
-
----
-
-## 🚀 Projects I'm Proud Of
-
-**Guest Satisfaction Prediction**  
-Used ensemble models and feature engineering to predict Airbnb guest satisfaction.  
-*Tools:* Python · Scikit-learn · XGBoost · CatBoost · Tkinter
-
-**Cardiovascular Risk Prediction**  
-Built a Streamlit app to assess CVD risk based on clinical and lifestyle data.  
-*Tools:* Python · XGBoost · Pandas · Streamlit
-
-**EOG Signal Processing**  
-Processed electrooculography signals to detect eye movement using wavelet-based analysis.  
-*Tools:* Python · SciPy · PyWavelets
-
-**Sentiment Analysis Classifier**  
-Developed a real-time sentiment classifier with a user-friendly interface.  
-*Tools:* Python · Scikit-learn · Streamlit · NLTK · TF-IDF
-
-📌 Explore all my repositories [on GitHub](https://github.com/MaysoonHelmy?tab=repositories)
-
----
-
-## 📚 Certifications & Training
-
-- ✅ IBM Data Science Professional Certificate  
-- Python 101 for Data Science – IBM  
-- Getting Started with Data – IBM  
-- Data Engineering & Linux Fundamentals – Summer Training  
-
----
-
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/maysoonhelmy)  
-- [GitHub](https://github.com/MaysoonHelmy)  
-- 📩 [Maysoonhelmy15@gmail.com](mailto:Maysoonhelmy15@gmail.com)
-
-Thanks for visiting my profile — always happy to learn, collaborate, or build something cool together! 😊
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maysoonhelmy&show_icons=true&locale=en&layout=compact" alt="maysoonhelmy" /></p>
